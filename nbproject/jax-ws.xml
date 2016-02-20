@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="ServiceHabitacion2">
+      <implementation-class>services.ServiceHabitacion2</implementation-class>
+    </service>
+    <service name="ServiceReserva2">
+      <implementation-class>services.ServiceReserva2</implementation-class>
+    </service>
+  </services>
+  <clients/>
+  <jsr109>false</jsr109>
+</jax-ws>
